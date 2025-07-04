@@ -78,33 +78,6 @@ In the `Delivery.cs` script, you can adjust:
 - `noPackageColor` - Default car color
 - `destoyDelay` - How long before picked up packages disappear
 
-### Building New Levels
-Use the included road tiles and environment assets to create your own delivery routes and town layouts!
-
-## 🎯 Future Enhancements
-
-Some ideas for expanding the game:
-- Multiple delivery routes
-- Time-based challenges
-- Score system
-- Multiple package types
-- Traffic and moving obstacles
-- Sound effects and music
-- Particle effects for pickups/deliveries
-
-## 📝 License
-
-This project is for educational and personal use. Asset pack included for learning purposes.
-
-## 🤝 Contributing
-
-Feel free to fork this project and add your own features! Some areas for improvement:
-- UI/HUD system
-- Level progression
-- Audio system
-- Enhanced visual effects
-- Mobile controls
-
 ---
 
 **Happy Delivering! 🚚📦**
